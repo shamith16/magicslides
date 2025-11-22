@@ -1,0 +1,8 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/magic_slides.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/magic_slides.png"
+  remove_alpha_ios: true
+
