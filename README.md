@@ -85,9 +85,9 @@ The latest signed artifact lives at `build/app/outputs/flutter-apk/app-release.a
 
 ## Deliverables
 
-- **APK**: `build/app/outputs/flutter-apk/app-release.apk`
+- **APK**: [build/app/outputs/flutter-apk/app-release.apk](build/app/outputs/flutter-apk/app-release.apk) (Git LFS managed)
 - **Repository**: this project (`magicslides`)
-- **Video Demo**: _Add link here before submission_
+- **Video Demo**: [videos/screen-20251123-144430~2.mp4](videos/screen-20251123-144430~2.mp4) (Git LFS managed)
 
 ---
 
