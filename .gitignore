@@ -48,9 +48,10 @@ app.*.map.json
 .fvm/
 
 # Environment variables (contains sensitive credentials)
+# (Dummy env file committed at .env.example for reference)
 .env
 .env.local
 .env.*.local
 
-# MongoDB Config (contains sensitive credentials)
+# MongoDB config (real one ignored, dummy at lib/config/mongo_config.example.dart)
 lib/config/mongo_config.dart
